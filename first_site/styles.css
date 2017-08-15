@@ -1,0 +1,13 @@
+h1 {
+  color:rgb(0, 245, 46);
+  font-size: 54px;
+  font-family: "Arial Narrow";
+  border-bottom: thick double blue;
+}
+
+h2 {
+  color: rgb(130, 0, 0);
+  font-size: 69px;
+  font-family: "freestyle script";
+  border: 5px solid green;
+}
